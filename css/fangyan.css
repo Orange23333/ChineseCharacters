@@ -1,0 +1,77 @@
+@font-face {
+	font-family: lxgw-wenkai-regular;
+	src: url("/fonts/LXGWWenKai-Regular.ttf");
+}
+@font-face {
+	font-family: lxgw-wenkai-bold;
+	src: url("/fonts/LXGWWenKai-Bold.ttf");
+}
+@font-face {
+	font-family: lxgw-wenkai-light;
+	src: url("/fonts/LXGWWenKai-Light.ttf");
+}
+@font-face {
+	font-family: lxgw-wenkai-mono-regular;
+	src: url("/fonts/LXGWWenKaiMono-Regular.ttf");
+}
+@font-face {
+	font-family: lxgw-wenkai-mono-bold;
+	src: url("/fonts/LXGWWenKaiMono-Bold.ttf");
+}
+@font-face {
+	font-family: lxgw-wenkai-mono-light;
+	src: url("/fonts/LXGWWenKaiMono-Light.ttf");
+}
+@font-face {
+	font-family: fz-bingnan-youyi;
+	src: url("/fonts/FZBNYYT.ttf");
+}
+
+body{
+	background-color: rgb(245, 221, 155);
+}
+
+/*
+ * “fy”即是方言的拼音缩写。
+ */
+
+.fy-title{
+	text-align: center;
+	font-size: 36pt;
+	color: rgb(10, 10, 10);
+	font-family: lxgw-wenkai-mono-regular;
+}
+
+.fy-book-info{
+	text-align: center;
+	font-size: 12pt;
+	color: rgb(90, 90, 90);
+	font-family: lxgw-wenkai-mono-regular;
+}
+
+.fy-text{
+	all: inherit;
+}
+
+.fy-text .fy-text-p{
+	all: inherit;
+	margin: 0em;
+	text-align: left;
+	text-indent:2em;
+	font-size: 13pt;
+	color: rgb(10, 10, 10);
+	font-family: lxgw-wenkai-mono-bold;
+}
+
+.os-bottom-info{
+	all: inherit;
+}
+
+.os-bottom-info .os-bottom-info-p{
+	all: inherit;
+	margin: 0em;
+	text-align: center;
+	font-size: 9pt;
+	color: rgb(0, 0, 0);
+	font-family: sans-serif;
+}
