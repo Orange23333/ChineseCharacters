@@ -35,26 +35,32 @@ body{
  * “fy”即是方言的拼音缩写。
  */
 
-.fy-title{
+div.fy-ebook{
+	all: inherit;
+}
+
+p.fy-title{
 	text-align: center;
 	font-size: 36pt;
 	color: rgb(10, 10, 10);
 	font-family: lxgw-wenkai-mono-regular;
 }
 
-.fy-book-info{
+p.fy-sub-title{
+	text-align: center;
+	font-size: 24pt;
+	color: rgb(10, 10, 10);
+	font-family: lxgw-wenkai-mono-regular;
+}
+
+p.fy-book-info{
 	text-align: center;
 	font-size: 12pt;
 	color: rgb(90, 90, 90);
 	font-family: lxgw-wenkai-mono-regular;
 }
 
-.fy-text{
-	all: inherit;
-}
-
-.fy-text .fy-text-p{
-	all: inherit;
+p.fy-text{
 	margin: 0em;
 	text-align: left;
 	text-indent:2em;
@@ -63,12 +69,7 @@ body{
 	font-family: lxgw-wenkai-mono-bold;
 }
 
-.os-bottom-info{
-	all: inherit;
-}
-
-.os-bottom-info .os-bottom-info-p{
-	all: inherit;
+p.os-bottom-info{
 	margin: 0em;
 	text-align: center;
 	font-size: 9pt;
