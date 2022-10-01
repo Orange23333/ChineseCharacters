@@ -40,6 +40,7 @@ div.fy-ebook{
 }
 
 p.fy-title{
+	margin: 0.5em 5px 0em 5px;
 	text-align: center;
 	font-size: 36pt;
 	color: rgb(10, 10, 10);
@@ -47,6 +48,7 @@ p.fy-title{
 }
 
 p.fy-sub-title{
+	margin: 0.5em 5px 0em 5px;
 	text-align: center;
 	font-size: 24pt;
 	color: rgb(10, 10, 10);
@@ -54,6 +56,7 @@ p.fy-sub-title{
 }
 
 p.fy-book-info{
+	margin: 0.5em 5px 0em 5px;
 	text-align: center;
 	font-size: 12pt;
 	color: rgb(90, 90, 90);
@@ -61,7 +64,7 @@ p.fy-book-info{
 }
 
 p.fy-text{
-	margin: 0em;
+	margin: 0.5em 5px 0em 5px;
 	text-align: left;
 	text-indent:2em;
 	font-size: 13pt;
@@ -70,7 +73,7 @@ p.fy-text{
 }
 
 p.os-bottom-info{
-	margin: 0em;
+	margin: 2px;
 	text-align: center;
 	font-size: 9pt;
 	color: rgb(0, 0, 0);

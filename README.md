@@ -1,6 +1,8 @@
-# [中国文字](https://gitee.com/orange23333/chinese-characters)
+# [中国文字](https://chinese-characters.ourorangenet.com/pages/fangyan/index.php)
 
 一个中国文字网站。
+
+[“中国文字”网站](https://chinese-characters.ourorangenet.com/pages/fangyan/index.php)
 
 # 安装
 
