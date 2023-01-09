@@ -7,10 +7,13 @@ echo <<<EOF
 	<head>
 
 EOF;
-echo '<meta http-equiv="refresh" content ="0;url=' . $url . '"/>';
+echo '<meta http-equiv="refresh" content ="10;url=' . $url . '"/>';
 echo <<<EOF
 
 	</head>
+	<body>
+		<p>Jump to <a href="$url">$url</a>.</p>
+	</body>
 </html>
 EOF;
 exit();

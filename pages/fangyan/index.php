@@ -34,7 +34,7 @@ print_fy_ebook($fy_content, 'fy-ebook');
 echo '<div class="os-bottom-info">' . $bottomInfo . '</div>';
 
 echo <<<EOF
-		<a href="# class="fy-sub-title" data-bs-toggle="tooltip" data-bs-title="Tooltip on left">123</a>
+		<a href="# class="fy-sub-title" data-bs-toggle="tooltip" data-bs-title="Tooltip on left">Test 123</a>
 	</body>
 </html>
 EOF;

@@ -1,7 +1,4 @@
 <?php
-//require_once ($_dir . '/includes/oos/easymark.php');
-//require_once ($_dir . '/includes/oos/easymark-prefabs.php');
-
 function to_attr_class_name(string $className): string {
     return is_null($className) ? '' : 'class="' . $className . '"';
 }
