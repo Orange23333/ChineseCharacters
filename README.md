@@ -1,8 +1,8 @@
 # [中国文字](https://chinese-characters.ourorangenet.com/pages/fangyan/index.php)
 
-一个中国文字网站。
+一个学习中国文字网站。
 
-[“中国文字”网站](https://chinese-characters.ourorangenet.com/pages/fangyan/index.php)
+前往 [“中国文字”网站](https://chinese-characters.ourorangenet.com/pages/fangyan/index.php)
 
 # 安装
 
@@ -32,7 +32,7 @@ find . -name "*.php" -exec chmod -v +x {} \;
 
 ## 方言（輶轩使者绝代语释别国方言）
 
-内容存放在`page/fangyan`下。
+内容存放在`pages/fangyan`下。
 
 *即将高考，更新较慢*
 
