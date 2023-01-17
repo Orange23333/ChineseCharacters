@@ -1,36 +1,42 @@
 @font-face {
-	font-family: lxgw-wenkai-regular;
-	src: url("/fonts/LXGWWenKai-Regular.ttf");
+	font-family: lxgw-wenkai;
+	src: url("/fonts/LXGWWenKai-Regular.ttf") format('truetype');
+	font-weight: normal;
 }
 
 @font-face {
-	font-family: lxgw-wenkai-bold;
-	src: url("/fonts/LXGWWenKai-Bold.ttf");
+	font-family: lxgw-wenkai;
+	src: url("/fonts/LXGWWenKai-Bold.ttf") format('truetype');
+	font-weight: bold;
 }
 
 @font-face {
-	font-family: lxgw-wenkai-light;
-	src: url("/fonts/LXGWWenKai-Light.ttf");
+	font-family: lxgw-wenkai;
+	src: url("/fonts/LXGWWenKai-Light.ttf") format('truetype');
+	font-weight: light;
 }
 
 @font-face {
-	font-family: lxgw-wenkai-mono-regular;
-	src: url("/fonts/LXGWWenKaiMono-Regular.ttf");
+	font-family: lxgw-wenkai-mono;
+	src: url("/fonts/LXGWWenKaiMono-Regular.ttf") format('truetype');
+	font-weight: normal;
 }
 
 @font-face {
-	font-family: lxgw-wenkai-mono-bold;
-	src: url("/fonts/LXGWWenKaiMono-Bold.ttf");
+	font-family: lxgw-wenkai-mono;
+	src: url("/fonts/LXGWWenKaiMono-Bold.ttf") format('truetype');
+	font-weight: bold;
 }
 
 @font-face {
-	font-family: lxgw-wenkai-mono-light;
-	src: url("/fonts/LXGWWenKaiMono-Light.ttf");
+	font-family: lxgw-wenkai-mono;
+	src: url("/fonts/LXGWWenKaiMono-Light.ttf") format('truetype');
+	font-weight: light;
 }
 
 @font-face {
 	font-family: fz-bingnan-youyi;
-	src: url("/fonts/FZBNYYT.ttf");
+	src: url("/fonts/FZBNYYT.ttf") format('truetype');
 }
 
 body {
@@ -49,7 +55,8 @@ p.fy-title {
 	text-align: center;
 	font-size: 36pt;
 	color: rgb(10, 10, 10);
-	font-family: lxgw-wenkai-mono-regular;
+	font-family: lxgw-wenkai-mono;
+	font-weight: bold;
 }
 
 p.fy-sub-title {
@@ -57,7 +64,8 @@ p.fy-sub-title {
 	text-align: center;
 	font-size: 24pt;
 	color: rgb(10, 10, 10);
-	font-family: lxgw-wenkai-mono-regular;
+	font-family: lxgw-wenkai-mono;
+	font-weight: bold;
 }
 
 p.fy-book-info {
@@ -65,7 +73,7 @@ p.fy-book-info {
 	text-align: center;
 	font-size: 12pt;
 	color: rgb(90, 90, 90);
-	font-family: lxgw-wenkai-mono-regular;
+	font-family: lxgw-wenkai-mono;
 }
 
 p.fy-text {
@@ -74,7 +82,18 @@ p.fy-text {
 	text-indent: 2em;
 	font-size: 13pt;
 	color: rgb(10, 10, 10);
-	font-family: lxgw-wenkai-mono-bold;
+	font-family: lxgw-wenkai-mono;
+	font-weight: bold;
+}
+
+p.fy-sign-off {
+	margin: 0.5em 5px 0em 5px;
+	text-align: right;
+	text-indent: 0em;
+	font-size: 13pt;
+	color: rgb(10, 10, 10);
+	font-family: lxgw-wenkai-mono;
+	font-weight: bold;
 }
 
 p.os-bottom-info {

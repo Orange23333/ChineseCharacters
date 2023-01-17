@@ -1,11 +1,11 @@
-"China Charaters" Website License
-Version 1.0 (1st Oct, 2022)
+"Chinese Charaters" Website License
+Version 1.1 (Published on 18st Jan, 2023)
 (Imitate MIT License)
 
 THIS LICENSE IS ONLY A TRANSLATION OF THE LICENSE IN CHINESE (zh-CN). THE
 VALID CONTENT SHALL BE SUBJECT TO THE LICENSE IN CHINESE (zh-CN).
 
-Copyright (c) 2022 All Original Authors and Contributors
+Copyright (c) 2022-2023 All Original Authors and Contributors
 ("Original Authors" are the authors of quoted text, "Contributors" are the
 contributors of this website. The copyright of the quoted text belongs to the
 original authors, and the year of declaration shall be subject to the original
